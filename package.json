@@ -19,4 +19,8 @@
     "url": "https://github.com/riverrevir/hanriver/issues"
   },
   "homepage": "https://github.com/riverrevir/hanriver#readme"
+  ,
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
