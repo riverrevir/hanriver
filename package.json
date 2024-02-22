@@ -1,0 +1,22 @@
+{
+  "name": "hanriver",
+  "version": "1.0.0",
+  "description": "hanriver is god",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riverrevir/hanriver.git"
+  },
+  "keywords": [
+    "hanriver"
+  ],
+  "author": "hanriver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riverrevir/hanriver/issues"
+  },
+  "homepage": "https://github.com/riverrevir/hanriver#readme"
+}
