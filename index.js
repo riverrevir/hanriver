@@ -1,1 +1,3 @@
-console.log("hanriver is god");
+module.exports=function(){
+    console.log("hanriver is god");
+};
