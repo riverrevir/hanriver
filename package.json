@@ -21,6 +21,6 @@
   "homepage": "https://github.com/riverrevir/hanriver#readme"
   ,
   "publishConfig": {
-    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+    "@hanriver:registry": "https://npm.pkg.github.com"
   }
 }
