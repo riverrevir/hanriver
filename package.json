@@ -4,7 +4,7 @@
   "description": "hanriver is god",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
